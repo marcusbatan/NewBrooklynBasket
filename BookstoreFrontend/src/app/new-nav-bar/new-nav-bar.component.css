@@ -93,7 +93,7 @@ button{
   padding: 12px 10px;
   outline: none;
   color: #fff;
-  background: linear-gradient(to right, #fb5283, #ff3527);
+  background: linear-gradient(to right, #4070f4, #000000);
   border-radius: 6px;
   cursor: pointer;
   transition: width 0.5s;
@@ -124,7 +124,7 @@ button:hover{
  content: '';
  width: 10px;
  height: 57%;
- background: linear-gradient(to right, #fb5283, #ff3527);
+ background: linear-gradient(to right, #4070f4, #000000);
  position: absolute;
  left: -40px;
  top: 8px;
@@ -145,7 +145,7 @@ button:hover{
   position: absolute;
   right: 0;
   top: 0;
-  background: linear-gradient(#ff54a2, #ff575a);
+  background: linear-gradient(#4070f4, #000000);
   border-radius: 20px 0 0 20px;
   height: 100%;
   width: 80%;
@@ -178,7 +178,7 @@ button:hover{
 
   nav ul{
     width: 100%;
-    background: linear-gradient(#ff54a2, #ff575a);
+    background: linear-gradient(#4070f4, #000000);
     position: absolute;
     top: 75px;
     right: 0;

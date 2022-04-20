@@ -11,6 +11,9 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { SearchForBooksComponent } from './books/search-for-books/search-for-books/search-for-books.component';
 import { AddBookProposalComponent } from './books/add-book-proposal/add-book-proposal/add-book-proposal.component';
 import { NewNavBarComponent } from './new-nav-bar/new-nav-bar.component';
+import { LoginComponent } from './User/Login/login/login.component';
+import { RegStatlineComponent } from './reg-statline/reg-statline/reg-statline.component';
+import { AddBlogpostComponent } from './blog-folder/add-blogpost/add-blogpost/add-blogpost.component';
 
 @NgModule({
   declarations: [
@@ -19,7 +22,10 @@ import { NewNavBarComponent } from './new-nav-bar/new-nav-bar.component';
     NavBarComponent,
     SearchForBooksComponent,
     AddBookProposalComponent,
-    NewNavBarComponent
+    NewNavBarComponent,
+    LoginComponent,
+    RegStatlineComponent,
+    AddBlogpostComponent
   ],
   imports: [
     BrowserModule,
