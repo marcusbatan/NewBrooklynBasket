@@ -1,0 +1,47 @@
+
+<div class="row">
+  <div class="col-6 m-auto">
+  <div class="card m-auto">
+    <div class="card-header">
+      Register
+    </div>
+    <div class="card-body">
+      <form [formGroup]="registerationForm">
+        <div class="form-group col-12">
+            <label for="name" class="form-label">Name</label>
+            <input type="text" class="form-control"
+            formControlName="nameOfUserWithRequest" name="nameOfUserWithRequest" id="nameOfUserWithRequest" [(ngModel)]="bookProposalMdl.nameOfUserWithRequest"
+            >
+            <span *ngIf="!nameOfUserWithRequest.valid && nameOfUserWithRequest.touched"
+            class="error-block">
+              Field cant be empty
+            </span>
+        </div>
+
+        <div class="form-group col-12">
+          <label for="title" class="form-label">Title</label>
+          <input type="text" class="form-control" formControlName="title" name="title" id="title" [(ngModel)]="bookProposalMdl.title">
+          <span *ngIf="!title.valid && title.touched" class="error-block">
+                Field cant be empty
+          </span>
+        </div>
+
+        <div class="form-group col-12">
+          <label for="author" class="form-label">Author</label>
+          <input type="text" class="form-control" formControlName="author" id="author" name="author" [(ngModel)]="bookProposalMdl.author">
+          <span *ngIf="!author.valid && author.touched" class="error-block">
+              Field cant be empty
+          </span>
+        </div>
+
+        <div class="form-group col-12">
+          <button type="submit" class="registerbtn" (click)="addBookProposal()">Register</button>
+          <button type="reset" style="background-color: red;" class="registerbtn">Cancel</button>
+        </div>
+        Form Values: {{registerationForm.value | json}} <br/>
+        Form Status: {{registerationForm.valid}}
+      </form>
+    </div>
+  </div>
+  </div>
+</div>

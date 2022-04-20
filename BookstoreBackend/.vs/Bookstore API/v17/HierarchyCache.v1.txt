@@ -1,0 +1,357 @@
+﻿++Solution 'Bookstore API' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:Bookstore API.sln
+++Bookstore API
+i:{00000000-0000-0000-0000-000000000000}:Bookstore API
+++Properties
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\properties\
+++AssemblyInfo.cs
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\properties\assemblyinfo.cs
+++References
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++Antlr3.Runtime
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++Microsoft.AI.Agent.Intercept
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++Microsoft.AI.DependencyCollector
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++Microsoft.AI.PerfCounterCollector
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++Microsoft.AI.ServerTelemetryChannel
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++Microsoft.AI.Web
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++Microsoft.AI.WindowsServer
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++Microsoft.ApplicationInsights
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++Microsoft.AspNetCore.Http.Abstractions
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++Microsoft.AspNetCore.Http.Features
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++Microsoft.AspNetCore.Mvc.Abstractions
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++Microsoft.AspNetCore.Routing.Abstractions
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++Microsoft.Bcl.AsyncInterfaces
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++Microsoft.CSharp
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++Microsoft.Extensions.DependencyInjection.Abstractions
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++Microsoft.Extensions.Primitives
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++Microsoft.Net.Http.Headers
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++Microsoft.VisualBasic
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++Microsoft.Web.Infrastructure
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++Newtonsoft.Json
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++System
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++System.Buffers
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++System.ComponentModel.DataAnnotations
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++System.Configuration
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++System.Data
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++System.Data.DataSetExtensions
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++System.Drawing
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++System.Memory
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++System.Net.Http
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++System.Net.Http.Formatting
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++System.Net.Http.WebRequest
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++System.Numerics
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++System.Numerics.Vectors
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++System.Runtime.CompilerServices.Unsafe
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++System.Runtime.Serialization
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++System.Text.Encodings.Web
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++System.Threading.Tasks.Extensions
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++System.Web
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++System.Web.Abstractions
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++System.Web.ApplicationServices
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++System.Web.Cors
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++System.Web.DynamicData
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++System.Web.Entity
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++System.Web.Extensions
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++System.Web.Helpers
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++System.Web.Http
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++System.Web.Http.Cors
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++System.Web.Http.WebHost
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++System.Web.Mvc
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++System.Web.Optimization
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++System.Web.Razor
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++System.Web.Routing
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++System.Web.WebPages
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++System.Web.WebPages.Deployment
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++System.Web.WebPages.Razor
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++System.Xml
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++System.Xml.Linq
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++WebGrease
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++App_Data
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\app_data\
+++Books.xml
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\app_data\books.xml
+++App_Start
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\app_start\
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\app_start\
+++BundleConfig.cs
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\app_start\bundleconfig.cs
+++FilterConfig.cs
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\app_start\filterconfig.cs
+++RouteConfig.cs
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\app_start\routeconfig.cs
+++WebApiConfig.cs
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\app_start\webapiconfig.cs
+++Areas
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\
+++HelpPage
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\
+++HelpPageConfig.cs
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\app_start\helppageconfig.cs
+++Controllers
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\controllers\
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\controllers\
+++HelpController.cs
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\controllers\helpcontroller.cs
+++ModelDescriptions
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\modeldescriptions\
+++CollectionModelDescription.cs
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\modeldescriptions\collectionmodeldescription.cs
+++ComplexTypeModelDescription.cs
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\modeldescriptions\complextypemodeldescription.cs
+++DictionaryModelDescription.cs
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\modeldescriptions\dictionarymodeldescription.cs
+++EnumTypeModelDescription.cs
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\modeldescriptions\enumtypemodeldescription.cs
+++EnumValueDescription.cs
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\modeldescriptions\enumvaluedescription.cs
+++IModelDocumentationProvider.cs
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\modeldescriptions\imodeldocumentationprovider.cs
+++KeyValuePairModelDescription.cs
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\modeldescriptions\keyvaluepairmodeldescription.cs
+++ModelDescription.cs
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\modeldescriptions\modeldescription.cs
+++ModelDescriptionGenerator.cs
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\modeldescriptions\modeldescriptiongenerator.cs
+++ModelNameAttribute.cs
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\modeldescriptions\modelnameattribute.cs
+++ModelNameHelper.cs
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\modeldescriptions\modelnamehelper.cs
+++ParameterAnnotation.cs
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\modeldescriptions\parameterannotation.cs
+++ParameterDescription.cs
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\modeldescriptions\parameterdescription.cs
+++SimpleTypeModelDescription.cs
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\modeldescriptions\simpletypemodeldescription.cs
+++Models
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\models\
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\models\
+++HelpPageApiModel.cs
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\models\helppageapimodel.cs
+++SampleGeneration
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\samplegeneration\
+++HelpPageSampleGenerator.cs
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\samplegeneration\helppagesamplegenerator.cs
+++HelpPageSampleKey.cs
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\samplegeneration\helppagesamplekey.cs
+++ImageSample.cs
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\samplegeneration\imagesample.cs
+++InvalidSample.cs
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\samplegeneration\invalidsample.cs
+++ObjectGenerator.cs
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\samplegeneration\objectgenerator.cs
+++SampleDirection.cs
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\samplegeneration\sampledirection.cs
+++TextSample.cs
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\samplegeneration\textsample.cs
+++Views
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\views\
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\views\
+++Help
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\views\help\
+++DisplayTemplates
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\views\help\displaytemplates\
+++ApiGroup.cshtml
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\views\help\displaytemplates\apigroup.cshtml
+++CollectionModelDescription.cshtml
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\views\help\displaytemplates\collectionmodeldescription.cshtml
+++ComplexTypeModelDescription.cshtml
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\views\help\displaytemplates\complextypemodeldescription.cshtml
+++DictionaryModelDescription.cshtml
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\views\help\displaytemplates\dictionarymodeldescription.cshtml
+++EnumTypeModelDescription.cshtml
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\views\help\displaytemplates\enumtypemodeldescription.cshtml
+++HelpPageApiModel.cshtml
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\views\help\displaytemplates\helppageapimodel.cshtml
+++ImageSample.cshtml
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\views\help\displaytemplates\imagesample.cshtml
+++InvalidSample.cshtml
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\views\help\displaytemplates\invalidsample.cshtml
+++KeyValuePairModelDescription.cshtml
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\views\help\displaytemplates\keyvaluepairmodeldescription.cshtml
+++ModelDescriptionLink.cshtml
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\views\help\displaytemplates\modeldescriptionlink.cshtml
+++Parameters.cshtml
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\views\help\displaytemplates\parameters.cshtml
+++Samples.cshtml
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\views\help\displaytemplates\samples.cshtml
+++SimpleTypeModelDescription.cshtml
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\views\help\displaytemplates\simpletypemodeldescription.cshtml
+++TextSample.cshtml
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\views\help\displaytemplates\textsample.cshtml
+++Api.cshtml
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\views\help\api.cshtml
+++Index.cshtml
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\views\help\index.cshtml
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\views\home\index.cshtml
+++ResourceModel.cshtml
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\views\help\resourcemodel.cshtml
+++Shared
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\views\shared\
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\views\shared\
+++_Layout.cshtml
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\views\shared\_layout.cshtml
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\views\shared\_layout.cshtml
+++_ViewStart.cshtml
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\views\_viewstart.cshtml
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\views\_viewstart.cshtml
+++Web.config
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\views\web.config
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\views\web.config
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\web.config
+++ApiDescriptionExtensions.cs
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\apidescriptionextensions.cs
+++HelpPage.css
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\helppage.css
+++HelpPageAreaRegistration.cs
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\helppagearearegistration.cs
+++HelpPageConfigurationExtensions.cs
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\helppageconfigurationextensions.cs
+++XmlDocumentationProvider.cs
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\areas\helppage\xmldocumentationprovider.cs
+++Content
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\content\
+++bootstrap.css
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\content\bootstrap.css
+++bootstrap.min.css
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\content\bootstrap.min.css
+++Site.css
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\content\site.css
+++BookInfoController.cs
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\controllers\bookinfocontroller.cs
+++HomeController.cs
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\controllers\homecontroller.cs
+++fonts
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\fonts\
+++glyphicons-halflings-regular.eot
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\fonts\glyphicons-halflings-regular.eot
+++glyphicons-halflings-regular.svg
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\fonts\glyphicons-halflings-regular.svg
+++glyphicons-halflings-regular.ttf
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\fonts\glyphicons-halflings-regular.ttf
+++glyphicons-halflings-regular.woff
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\fonts\glyphicons-halflings-regular.woff
+++BookModel.cs
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\models\bookmodel.cs
+++LibraryModel.cs
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\models\librarymodel.cs
+++Repository
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\repository\
+++LibraryRepository.cs
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\repository\libraryrepository.cs
+++Scripts
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\scripts\
+++bootstrap.js
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\scripts\bootstrap.js
+++bootstrap.min.js
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\scripts\bootstrap.min.js
+++jquery-1.10.2.intellisense.js
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\scripts\jquery-1.10.2.intellisense.js
+++jquery-1.10.2.js
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\scripts\jquery-1.10.2.js
+++jquery-1.10.2.min.js
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\scripts\jquery-1.10.2.min.js
+++jquery-1.10.2.min.map
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\scripts\jquery-1.10.2.min.map
+++modernizr-2.6.2.js
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\scripts\modernizr-2.6.2.js
+++respond.js
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\scripts\respond.js
+++respond.min.js
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\scripts\respond.min.js
+++script.js
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\scripts\script.js
+++BookView
+++BookInfo.cshtml
+++Home
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\views\home\
+++Book.cshtml
+++Error.cshtml
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\views\shared\error.cshtml
+++ApplicationInsights.config
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\applicationinsights.config
+++favicon.ico
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\favicon.ico
+++Global.asax
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\global.asax
+++packages.config
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\packages.config
+++Global.asax.cs
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\global.asax.cs
+++Web.Debug.config
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\web.debug.config
+++Web.Release.config
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:c:\users\marku\downloads\bookstore api\bookstore api\web.release.config
+++Microsoft.Extensions.Logging.Abstractions
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++System.ComponentModel.Annotations
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++Microsoft.Extensions.Configuration.Abstractions
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++Microsoft.Extensions.FileProviders.Abstractions
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++Microsoft.AspNetCore.Http.Extensions
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++Microsoft.Extensions.Options
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
+++Microsoft.AspNetCore.Cors
+i:{31b12fa2-a0bb-4a23-811d-1477b7e24e30}:
