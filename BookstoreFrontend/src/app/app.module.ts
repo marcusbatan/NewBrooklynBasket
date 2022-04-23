@@ -14,6 +14,8 @@ import { NewNavBarComponent } from './new-nav-bar/new-nav-bar.component';
 import { LoginComponent } from './User/Login/login/login.component';
 import { RegStatlineComponent } from './reg-statline/reg-statline/reg-statline.component';
 import { AddBlogpostComponent } from './blog-folder/add-blogpost/add-blogpost/add-blogpost.component';
+import { PlayerComponent } from './PlayerFolder/player/player.component';
+import { ChatComponent } from './chat/chat.component';
 
 @NgModule({
   declarations: [
@@ -25,8 +27,10 @@ import { AddBlogpostComponent } from './blog-folder/add-blogpost/add-blogpost/ad
     NewNavBarComponent,
     LoginComponent,
     RegStatlineComponent,
-    AddBlogpostComponent
-  ],
+    AddBlogpostComponent,
+    PlayerComponent,
+      ChatComponent
+   ],
   imports: [
     BrowserModule,
     AppRoutingModule,

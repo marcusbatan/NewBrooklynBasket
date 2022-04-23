@@ -12,47 +12,51 @@
         <div class="user-details">
           <div class="input-box">
             <span class="details">Points</span>
-            <input type="text" placeholder="Enter Points Scored" required>
+            <input type="number" placeholder="Enter Points Scored" required [(ngModel)]="statlineMdl.points">
           </div>
           <div class="input-box">
             <span class="details">Rebounds</span>
-            <input type="text" placeholder="Enter Rebounds Caught" required>
+            <input type="number" placeholder="Enter Rebounds Caught" required [(ngModel)]="statlineMdl.rebounds">
           </div>
           <div class="input-box">
             <span class="details">Assists</span>
-            <input type="text" placeholder="Enter Assists Passed" required>
+            <input type="number" placeholder="Enter Assists Passed" required [(ngModel)]="statlineMdl.assists">
           </div>
           <div class="input-box">
             <span class="details">Steals</span>
-            <input type="text" placeholder="Enter Steals" required>
+            <input type="number" placeholder="Enter Steals" required [(ngModel)]="statlineMdl.steals">
           </div>
           <div class="input-box">
             <span class="details">Blocks</span>
-            <input type="text" placeholder="Enter Blocks" required>
+            <input type="number" placeholder="Enter Blocks" required [(ngModel)]="statlineMdl.blocks">
           </div>
           <div class="input-box">
             <span class="details">FGA</span>
-            <input type="text" placeholder="Enter FGA" required>
+            <input type="number" placeholder="Enter FGA" required [(ngModel)]="statlineMdl.FGA">
           </div>
         <div class="input-box">
           <span class="details">FGM</span>
-          <input type="text" placeholder="Enter FGM" required>
+          <input type="number" placeholder="Enter FGM" required [(ngModel)]="statlineMdl.FGM">
         </div>
         <div class="input-box">
           <span class="details">3PTA</span>
-          <input type="text" placeholder="Enter 3PTA" required>
+          <input type="number" placeholder="Enter 3PTA" required [(ngModel)]="statlineMdl.ThreePTA">
         </div>
         <div class="input-box">
           <span class="details">3PTM</span>
-          <input type="text" placeholder="Enter 3PTM" required>
+          <input type="number" placeholder="Enter 3PTM" required [(ngModel)]="statlineMdl.ThreePTM">
         </div>
         <div class="input-box">
           <span class="details">FTA</span>
-          <input type="text" placeholder="FTM" required>
+          <input type="number" placeholder="FTA" required [(ngModel)]="statlineMdl.FTA">
+        </div>
+        <div class="input-box">
+          <span class="details">FTM</span>
+          <input type="number" placeholder="FTM" required [(ngModel)]="statlineMdl.FTM">
         </div>
       </div>
         <div class="button">
-          <input type="submit" value="Register">
+          <input type="submit" value="Register" (click)="registerStatline()">
         </div>
       </form>
     </div>

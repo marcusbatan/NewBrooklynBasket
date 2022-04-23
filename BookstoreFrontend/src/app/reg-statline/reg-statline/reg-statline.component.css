@@ -16,10 +16,11 @@ body{
 .container{
   max-width: 700px;
   width: 100%;
+  max-height: 97%;
   background-color: #fff;
   padding: 25px 30px;
   border-radius: 5px;
-  box-shadow: 0 5px 10px rgba(0,0,0,0.15);
+  box-shadow: 0 5px 10px rgba(0,0,0,0.15)
 }
 .container .title{
   font-size: 25px;
@@ -101,7 +102,7 @@ form .input-box span.details{
  }
  form .button{
    height: 45px;
-   margin: 35px 0
+   margin: 20px 0
  }
  form .button input{
    height: 100%;
